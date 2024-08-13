@@ -32,3 +32,6 @@ Contributing
 Contributions are welcome! Please follow the standard GitHub flow for contributing to this project. Open an issue or submit a pull request with your changes.
 
 ## License
+Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
